@@ -1,0 +1,8 @@
+streamlit
+stable-baselines3
+gymnasium
+yfinance
+pandas
+numpy<2.0.0
+plotly
+torch
