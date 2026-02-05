@@ -11,7 +11,8 @@ st.set_page_config(page_title="PPO 강화학습 포트폴리오 최적화", page
 
 # 타이틀
 st.title(" PPO 강화학습 포트폴리오 최적화 대시보드")
-st.markdown("**기본 전략 vs Optuna 최적화 전략 성과 비교 [두개 버튼 모두 클릭해야 비교 분석이 가능]**")
+st.markdown("**기본 전략 vs Optuna 최적화 전략 성과 비교**")
+st.markdown("**버튼 클릭 시 약 10초간 대기 후 남은 버튼 모두 클릭해야 비교분석 가능**")
 st.markdown("---")
 
 # 사이드바 설명
